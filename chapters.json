@@ -1,0 +1,35 @@
+{
+  "minVersion": "1.0.0",
+  "music": [
+    "main_theme.mp3"
+  ],
+  "chapters": {
+    "office": {
+      "id": "office",
+      "line": "main",
+      "number": 1,
+      "name": "Офис",
+      "preview": "office.jpg",
+      "stepMap": {
+        "stepList_4": [
+          {
+            "background": {
+              "name": "gradusnik.jpg"
+            }
+          },
+          {
+            "background": {
+              "name": "gradusnik.jpg"
+            },
+            "message": {
+              "author": "$hero",
+              "avatar": "gg_say_shirt.png",
+              "text": "Так, температура вроде небольшая, но ноги болят"
+            },
+            "voice": "tak_temperatura_vrode.mp3"
+          }
+        ]
+      }
+    }
+  }
+}
