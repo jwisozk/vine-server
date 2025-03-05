@@ -1,8 +1,5 @@
 {
   "minVersion": "1.0.0",
-  "music": [
-    "main_theme.mp3"
-  ],
   "chapters": {
     "office": {
       "id": "office",
